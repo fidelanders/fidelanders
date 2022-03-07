@@ -18,5 +18,5 @@ If you feel like you’re in need of a trusty development partner, I am a worthy
 ### Interested in working together? 
 💬 Let’s chat: 
 📫 Email: fidelanders@gmail.com <br>
-📫 Portfolio: fidelportfolio.herokuapp.com <br>
+📫 Portfolio: https://ogbeni-portfolio.herokuapp.com<br>
 📫 LinkedIn: https://www.linkedin.com/in/fidelisogbeni/
