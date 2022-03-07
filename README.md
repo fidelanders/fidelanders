@@ -16,7 +16,7 @@ JavaScript, React, Node, teaching oneself how to code, I am a music lover, footb
 If you feel like you’re in need of a trusty development partner, I am a worthy partner with two years of backend-end development experience under my belt, I come equipped with the knowledge and skills to align your next-level web design vision with the best tools all in handy – all through advanced custom coding that won’t interfere with your client’s ability keep their site fresh after hand-off.
 
 ### Interested in working together? 
-💬 Let’s chat: 
+💬 Let’s chat: <br>
 📫 Email: fidelanders@gmail.com <br>
 📫 Portfolio: https://ogbeni-portfolio.herokuapp.com<br>
 📫 LinkedIn: https://www.linkedin.com/in/fidelisogbeni/
