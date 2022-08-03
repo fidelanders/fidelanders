@@ -1,6 +1,6 @@
 ### Welcome to my Profile
 
-![fidel](https://user-images.githubusercontent.com/85418769/157094152-e982faab-11f4-47bc-969e-54cf0506a643.jpg)
+# Fidelis Ogbeni - Software Quality Assurance Engineer
 
 Studied Computer Science and a self-taught software engineer who previously worked in IT as a business systems analyst. In my day to day, I work in the JavaScript/Node/Express universe, MongoDB, MySQL, HTML and CSS. I also have professional experience as a Manual and Automation Test Engineer using Testproject, Blazemeter, Selelium webdriver and Mobile testing (SkillShare.com).
 
