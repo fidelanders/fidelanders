@@ -1,21 +1,19 @@
 ### Welcome to my Profile
 
-# Fidelis Ogbeni - Software Quality Assurance Engineer
+# Fidelis Ogbeni {Quality Assurance Engineer}
 
-Studied Computer Science and a self-taught software engineer who previously worked in IT as a business systems analyst. In my day to day, I work in the JavaScript/Node/Express universe, MongoDB, MySQL, HTML and CSS. I also have professional experience as a Manual and Automation Test Engineer using Testproject, Blazemeter, Selelium webdriver and Mobile testing (SkillShare.com).
+
+### About me:
+I am a Computer Science graduate, majoring in programming and graphic design. A self-taught software engineer who previously worked in IT as a business systems analyst. In my day to day,day-to-day the JavaScript/Node/Express universe, MongoDB, MySQL, HTML and CSS. I also have professional experience as a Manual and Automation Test Engineer using Testprojectr, Selenium and Mobile testing (SkillShare.com).
 
 ### Status
-- 🔭 I’m currently working on: Selelium + Appium + Playwright + Lighthouse at work as a Quality Assurance Engineer
-- 🌱 I’m currently learning: UI/UX Figma Designs, React and Flutterwave
-- 👯 I’m looking to collaborate on ...
 
-### About me: 
-JavaScript, React, Node, teaching oneself how to code, I am a music lover, football, hanging out with friends, learning languages (programming and otherwise).
+- 🌱 I’m currently advancing my QA skills in UI and API automation using selenium, cypress, playwright and Jmeter
 
-### Collaborate with me:
+### Looking for a Team Player:
 If you feel like you’re in need of a trusty development partner, I am a worthy partner with two years of backend-end development experience under my belt, I come equipped with the knowledge and skills to align your next-level web design vision with the best tools all in handy – all through advanced custom coding that won’t interfere with your client’s ability keep their site fresh after hand-off.
 
-### Interested in working together? 
+### Connect with me:
 💬 Let’s chat: <br>
 📫 Email: fidelanders@gmail.com <br>
 📫 Portfolio: https://ogbeni-portfolio.herokuapp.com<br>
