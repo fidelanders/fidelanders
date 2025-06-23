@@ -1,20 +1,67 @@
-### Welcome to my Profile
+<h1 align="center">👋 Welcome to My GitHub</h1>
 
-# Fidelis Ogbeni {Quality Assurance Engineer}
+<h2 align="center">🚀 Fidelis Ogbeni | Quality Assurance Engineer</h2>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/QA%20Engineer-Test%20Automation-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Postman%20Proficiency-Expert-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cypress%20&%20Playwright-End2End-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/JMeter%20&%20K6-Perf%20Testing-critical?style=flat-square" />
+</p>
 
-### About me:
-I am a Computer Science graduate, majoring in programming and graphic design. A self-taught software engineer who previously worked in IT as a business systems analyst. In my day to day,day-to-day the JavaScript/Node/Express universe, MongoDB, MySQL, HTML and CSS. I also have professional experience as a Manual and Automation Test Engineer using Testprojectr, Selenium and Mobile testing (SkillShare.com).
+---
 
-### Status
+## 👨‍💻 About Me
 
-- 🌱 I’m currently advancing my QA skills in UI and API automation using selenium, cypress, playwright and Jmeter
+I'm **Fidelis Ogbeni**, a self-taught Software and QA Engineer with a **Computer Science** background. With roots in **Business Systems Analysis**, I now focus on delivering solid software quality and automation excellence across **UI, API, Performance**, and **Mobile testing** environments.
 
-### Looking for a Team Player:
-If you feel like you’re in need of a trusty development partner, I am a worthy partner with two years of backend-end development experience under my belt, I come equipped with the knowledge and skills to align your next-level web design vision with the best tools all in handy – all through advanced custom coding that won’t interfere with your client’s ability keep their site fresh after hand-off.
+I code mostly in the **JavaScript/Node/Express** ecosystem and build resilient test automation frameworks using:
+- ✅ Selenium, Cypress, Playwright
+- ✅ Postman, REST-assured, Swagger
+- ✅ JMeter, K6, Blazemeter
+- ✅ MongoDB, MySQL
+- ✅ HTML/CSS
 
-### Connect with me:
-💬 Let’s chat: <br>
-📫 Email: fidelanders@gmail.com <br>
-📫 Portfolio: https://ogbeni-portfolio.herokuapp.com<br>
-📫 LinkedIn: https://www.linkedin.com/in/fidelisogbeni/
+---
+
+## 📈 Current Focus
+
+🎯 **Sharpening QA automation** skills across:
+- UI: `Cypress`, `Playwright`, `Selenium`
+- API: `Postman (Advanced)`, `Supertest`, `Newman`
+- Performance: `JMeter`, `K6`
+- CI/CD Integration, test analytics, and reporting dashboards
+
+---
+
+## 🤝 Let’s Collaborate
+
+Are you looking for a **QA-savvy partner** who can also speak dev language fluently?  
+With **2+ years** in backend development and testing, I help bridge the gap between developers and QA — ensuring high-quality, testable, and maintainable applications.
+
+I thrive in:
+- Agile teams 🌀  
+- Dev-Test alignment ⚙️  
+- Test-driven development 🧪  
+- Exploratory and regression testing 🔍
+
+---
+
+## 📬 Connect with Me
+
+<div align="left">
+
+- 📫 **Email**: [fidelanders@gmail.com](mailto:fidelanders@gmail.com)  
+- 🌐 **Portfolio**: [https://fidellabz.vercel.app](https://fidellabz.vercel.app)  
+- 🔗 **LinkedIn**: [linkedin.com/in/fidelisogbeni](https://www.linkedin.com/in/fidelisogbeni/)
+
+</div>
+
+---
+
+> _"Quality is never an accident. It is always the result of intelligent effort."_  
+> — John Ruskin
+
+---
+
+⭐️ *Thanks for visiting my profile! Drop a ⭐️ if you like my work or want to collaborate!*
